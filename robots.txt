@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fredayea.github.io/sitemap.html.gz
+Sitemap: https://fredayea.github.io/app/sitemap.html.gz
+Sitemap: https://fredayea.github.io/assets/sitemap.html.gz
+Sitemap: https://fredayea.github.io/css/sitemap.html.gz
+Sitemap: https://fredayea.github.io/includes/sitemap.html.gz
+Sitemap: https://fredayea.github.io/item/sitemap.html.gz
+Sitemap: https://fredayea.github.io/src/sitemap.html.gz
